@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\OOP-Lab04\OOP-Lab04\obj\Debug\net6.0\OOP-Lab04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OOP-Lab04\OOP-Lab04\obj\Debug\net6.0\OOP-Lab04.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OOP-Lab04\OOP-Lab04\obj\Debug\net6.0\OOP-Lab04.AssemblyInfo.cs
+C:\Users\Admin\source\repos\OOP-Lab04\OOP-Lab04\obj\Debug\net6.0\OOP-Lab04.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOP-Lab04\OOP-Lab04\bin\Debug\net6.0\OOP-Lab04.exe
+C:\Users\Admin\source\repos\OOP-Lab04\OOP-Lab04\bin\Debug\net6.0\OOP-Lab04.deps.json
+C:\Users\Admin\source\repos\OOP-Lab04\OOP-Lab04\bin\Debug\net6.0\OOP-Lab04.runtimeconfig.json
+C:\Users\Admin\source\repos\OOP-Lab04\OOP-Lab04\bin\Debug\net6.0\OOP-Lab04.dll
+C:\Users\Admin\source\repos\OOP-Lab04\OOP-Lab04\bin\Debug\net6.0\OOP-Lab04.pdb
+C:\Users\Admin\source\repos\OOP-Lab04\OOP-Lab04\obj\Debug\net6.0\OOP-Lab04.dll
+C:\Users\Admin\source\repos\OOP-Lab04\OOP-Lab04\obj\Debug\net6.0\refint\OOP-Lab04.dll
+C:\Users\Admin\source\repos\OOP-Lab04\OOP-Lab04\obj\Debug\net6.0\OOP-Lab04.pdb
+C:\Users\Admin\source\repos\OOP-Lab04\OOP-Lab04\obj\Debug\net6.0\OOP-Lab04.genruntimeconfig.cache
+C:\Users\Admin\source\repos\OOP-Lab04\OOP-Lab04\obj\Debug\net6.0\ref\OOP-Lab04.dll

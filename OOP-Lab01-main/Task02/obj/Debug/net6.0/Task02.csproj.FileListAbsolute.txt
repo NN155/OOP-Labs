@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\OOP Lab01\Task02\bin\Debug\net6.0\Task02.exe
+C:\Users\Admin\source\repos\OOP Lab01\Task02\bin\Debug\net6.0\Task02.deps.json
+C:\Users\Admin\source\repos\OOP Lab01\Task02\bin\Debug\net6.0\Task02.runtimeconfig.json
+C:\Users\Admin\source\repos\OOP Lab01\Task02\bin\Debug\net6.0\Task02.dll
+C:\Users\Admin\source\repos\OOP Lab01\Task02\bin\Debug\net6.0\Task02.pdb
+C:\Users\Admin\source\repos\OOP Lab01\Task02\obj\Debug\net6.0\Task02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OOP Lab01\Task02\obj\Debug\net6.0\Task02.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OOP Lab01\Task02\obj\Debug\net6.0\Task02.AssemblyInfo.cs
+C:\Users\Admin\source\repos\OOP Lab01\Task02\obj\Debug\net6.0\Task02.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOP Lab01\Task02\obj\Debug\net6.0\Task02.dll
+C:\Users\Admin\source\repos\OOP Lab01\Task02\obj\Debug\net6.0\refint\Task02.dll
+C:\Users\Admin\source\repos\OOP Lab01\Task02\obj\Debug\net6.0\Task02.pdb
+C:\Users\Admin\source\repos\OOP Lab01\Task02\obj\Debug\net6.0\Task02.genruntimeconfig.cache
+C:\Users\Admin\source\repos\OOP Lab01\Task02\obj\Debug\net6.0\ref\Task02.dll
